@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+h1{
+    margin-bottom: 2%;
+}
+#btn-click{
+    margin-top: 1%;
+}
+#btn-again{
+    display: none;
+    margin-top: 2%;
+}
+#quote-1 p, #quote-2 p{
+    color: maroon;
+    font-weight: bolder;
+}
+.for-result{
+    text-align: center;
+}
